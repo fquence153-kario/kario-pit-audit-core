@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+.env
+.env.*
+*.pem
+*.key
+*.zip
+*.7z
+*.parquet
+*.sqlite
+*.sqlite3
+*.db
+data/
+private/
+outputs/
+local_data/
+# KARIO v0.8A: prevent accidental data and log commits
+*.csv
+*.jsonl
+*.log

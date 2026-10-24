@@ -1,0 +1,2 @@
+# Generic, vendor-neutral signature verifier; no LSEG packages.
+cryptography==50.0.2

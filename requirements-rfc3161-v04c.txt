@@ -1,0 +1,2 @@
+# Small ASN.1 parser for RFC3161 metadata; crypto verified by external OpenSSL CLI.
+asn1crypto==1.5.1
